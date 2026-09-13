@@ -1,6 +1,4 @@
-﻿Console.WriteLine("Hello, Akash! Welcome to the C# programming world.");
-
-Console.Write("Enter your first number: ");
+﻿Console.Write("Enter your first number: ");
 int a = Convert.ToInt32(Console.ReadLine()); //int a = 15
 
 Console.Write("Enter your second number: ");
